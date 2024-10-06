@@ -2,8 +2,7 @@ import React, { useRef, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub,faGoogle,faInstagram,faApple } from '@fortawesome/free-brands-svg-icons';
 import CustomHook from './CustomHook';
-import { FaCode } from 'react-icons/fa';
-import { FaMapMarkerAlt } from 'react-icons/fa';
+
 
 
 function Skills() {
