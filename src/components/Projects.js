@@ -186,7 +186,7 @@ CustomHook(scrollTab, divs);
                         <div className="des">{value.language}</div>
                     </div>
                 </div>
-                <a href = {value.git} target="_blank">
+                <a href = {value.git} target="_blank" rel="noreferrer noopener">
                 <div className="mission">
                     <div><FontAwesomeIcon icon={faGithub} /></div>
                     <div>
